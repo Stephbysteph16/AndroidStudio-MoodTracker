@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pair Programming 2</string>
+    <string-array name="mood_options">
+        <item>:)) Excited</item>
+        <item>:) Happy</item>
+        <item>:/ Neutral</item>
+        <item>:( Sad</item>
+        <item>>:( Angry</item>
+    </string-array>
+</resources>
